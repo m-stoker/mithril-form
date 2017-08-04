@@ -1,2 +1,2 @@
 # mithril-form
-mithril form experiment
+mithril form experiment :)
